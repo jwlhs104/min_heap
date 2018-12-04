@@ -73,8 +73,8 @@ def list2String(l):
 
 if __name__ == '__main__':
     # 1. Check the command-line arguments
-    #if len(sys.argv) != 3:
-    #    sys.exit("Usage: python3 programming_hw4.py <input> <output>")
+    if len(sys.argv) != 3:
+        sys.exit("Usage: python3 programming_hw4.py <input> <output>")
     
     # 2. Read the input file
     inFile = open(sys.argv[1], 'r')
@@ -103,8 +103,10 @@ if __name__ == '__main__':
                 findMin_list.append('-')
         else: # Unknown command
             assert False
-        i = i+1
-        print(i*100/n,"%")
+
+		# Progress Visualiztion
+		#i = i+1
+		#print(i*100/n,"%")
         # print(minPQ.string())
     
     # 4. Output answers
@@ -115,10 +117,10 @@ if __name__ == '__main__':
     outFile.write('{}'.format(minPQ.string()))
     outFile.close()
 
-    # 5. Validation
-    oFile = open(sys.argv[2], 'r')
-    aFile = open(sys.argv[3], 'r')
-    oFile_list = list(oFile.read().splitlines())
-    aFile_list = list(aFile.read().splitlines())
-    if oFile_list == aFile_list : print('correct')
-    else : print('uncorrect')
+	# 5. Validation
+	#oFile = open(sys.argv[2], 'r')
+	#aFile = open(sys.argv[3], 'r')
+	#oFile_list = list(oFile.read().splitlines())
+	#aFile_list = list(aFile.read().splitlines())
+	#if oFile_list == aFile_list : print('correct')
+	#else : print('uncorrect')
