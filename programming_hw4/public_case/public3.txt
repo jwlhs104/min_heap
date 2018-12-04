@@ -1,0 +1,14 @@
+deleteMin
+insert 2
+insert 4
+deleteMin
+findMin
+insert 1
+insert 5
+deleteMin
+insert 6
+insert 7
+findMin
+findMin
+insert 8
+insert 3

@@ -1,0 +1,100 @@
+deleteMin
+findMin
+insert 28
+insert 12
+insert 18
+insert 35
+findMin
+findMin
+insert 20
+insert 32
+deleteMin
+insert 3
+insert 6
+findMin
+deleteMin
+findMin
+insert 5
+findMin
+deleteMin
+insert 42
+insert 17
+deleteMin
+insert 8
+insert 47
+insert 14
+deleteMin
+findMin
+insert 44
+findMin
+findMin
+findMin
+deleteMin
+insert 31
+deleteMin
+deleteMin
+findMin
+insert 22
+insert 38
+findMin
+insert 33
+insert 46
+findMin
+deleteMin
+insert 4
+deleteMin
+findMin
+insert 9
+findMin
+insert 41
+insert 29
+findMin
+findMin
+insert 2
+findMin
+insert 13
+findMin
+insert 37
+deleteMin
+insert 50
+insert 10
+insert 26
+insert 39
+insert 1
+insert 24
+findMin
+insert 21
+insert 49
+insert 36
+deleteMin
+deleteMin
+findMin
+deleteMin
+insert 48
+findMin
+insert 25
+findMin
+findMin
+findMin
+insert 40
+insert 30
+insert 43
+insert 27
+findMin
+insert 7
+insert 34
+findMin
+insert 11
+insert 16
+deleteMin
+insert 15
+deleteMin
+deleteMin
+insert 45
+findMin
+deleteMin
+findMin
+insert 23
+findMin
+deleteMin
+insert 19

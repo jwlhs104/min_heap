@@ -1,0 +1,25 @@
+deleteMin
+findMin
+deleteMin
+findMin
+deleteMin
+findMin
+insert 3
+deleteMin
+findMin
+findMin
+insert 1
+findMin
+deleteMin
+findMin
+insert 2
+findMin
+insert 4
+findMin
+deleteMin
+deleteMin
+deleteMin
+deleteMin
+findMin
+deleteMin
+insert 5

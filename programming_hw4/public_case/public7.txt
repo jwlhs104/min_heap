@@ -1,0 +1,200 @@
+deleteMin
+insert 23
+insert 41
+findMin
+insert 82
+deleteMin
+findMin
+insert 56
+findMin
+findMin
+findMin
+deleteMin
+deleteMin
+insert 85
+insert 11
+findMin
+insert 79
+insert 58
+insert 24
+deleteMin
+deleteMin
+findMin
+deleteMin
+findMin
+findMin
+insert 44
+insert 60
+insert 51
+insert 1
+insert 9
+insert 55
+deleteMin
+insert 4
+deleteMin
+findMin
+insert 99
+insert 98
+deleteMin
+insert 67
+insert 48
+insert 81
+insert 83
+findMin
+insert 10
+deleteMin
+insert 63
+findMin
+insert 39
+insert 69
+insert 34
+insert 30
+insert 74
+findMin
+deleteMin
+insert 31
+insert 66
+insert 35
+insert 3
+insert 72
+findMin
+findMin
+deleteMin
+insert 17
+deleteMin
+insert 12
+deleteMin
+insert 18
+insert 78
+findMin
+insert 76
+findMin
+deleteMin
+deleteMin
+deleteMin
+deleteMin
+findMin
+insert 57
+insert 5
+insert 70
+deleteMin
+findMin
+insert 20
+insert 52
+deleteMin
+findMin
+insert 6
+insert 27
+deleteMin
+deleteMin
+findMin
+insert 25
+findMin
+insert 15
+findMin
+findMin
+findMin
+findMin
+findMin
+insert 73
+insert 94
+insert 96
+insert 84
+insert 28
+findMin
+findMin
+insert 40
+findMin
+deleteMin
+findMin
+findMin
+insert 92
+deleteMin
+findMin
+insert 91
+insert 36
+findMin
+findMin
+insert 22
+findMin
+findMin
+deleteMin
+deleteMin
+insert 8
+insert 19
+deleteMin
+findMin
+deleteMin
+deleteMin
+deleteMin
+insert 62
+insert 65
+deleteMin
+insert 77
+insert 26
+insert 16
+deleteMin
+deleteMin
+insert 93
+deleteMin
+insert 88
+deleteMin
+insert 87
+insert 75
+findMin
+insert 64
+insert 14
+deleteMin
+insert 33
+insert 100
+deleteMin
+insert 61
+insert 7
+insert 43
+insert 50
+findMin
+deleteMin
+findMin
+deleteMin
+findMin
+insert 2
+insert 47
+findMin
+insert 42
+insert 97
+insert 71
+deleteMin
+deleteMin
+deleteMin
+insert 54
+deleteMin
+findMin
+insert 95
+insert 89
+insert 49
+insert 37
+insert 46
+findMin
+insert 80
+insert 59
+insert 86
+insert 53
+findMin
+findMin
+insert 13
+insert 68
+findMin
+insert 21
+insert 32
+deleteMin
+insert 29
+deleteMin
+deleteMin
+insert 90
+findMin
+deleteMin
+findMin
+insert 45
+deleteMin
+deleteMin
+insert 38

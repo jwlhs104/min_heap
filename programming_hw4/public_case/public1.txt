@@ -1,0 +1,9 @@
+insert 5
+insert 1
+deleteMin
+findMin
+deleteMin
+insert 2
+insert 4
+findMin
+insert 3
